@@ -1,6 +1,6 @@
-<a href="https://www.microchip.com" rel="nofollow"><img src="./images/MicrochipLogo.png" alt="Microchip Logo" width="300" /></a>
+[![MCHP](images/microchip.png)](https://www.microchip.com)
 
-# PIC18F47Q10 EUSART Send Formatted Messages Using `printf`
+# PIC18F47Q10 EUSART Send Formatted Messages Using 'printf'
 
 It is a common use case for an application to send a message with variable fields over EUSART, when the
 application reports a sensor reading, for instance. Using formatted messages is a very flexible approach and reduces the number of code lines. This can be accomplished by redirecting STDIO to EUSART.
